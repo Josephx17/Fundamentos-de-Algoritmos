@@ -10,7 +10,7 @@ namespace semana3
     {
         static void Main(string[] args)
         {
-            ejercicio4();
+            ejercicio2();
             Console.ReadKey();
         }
         static void ejercicio01()
@@ -22,6 +22,11 @@ namespace semana3
 
             Console.WriteLine(nombre + " Bienvenido al curso de Fundamento De Algoritmos");
         }
+        static void ejercicio2()
+        {
+            Console.WriteLine("Fabrizzio 19 Ing De Sistemas");
+        }
+        
         static void ejercicio4()
         {
             int num1, num2;
