@@ -5,3 +5,10 @@ C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos de algoritmos\semana3\obj\Debu
 C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos de algoritmos\semana3\obj\Debug\semana3.csproj.CoreCompileInputs.cache
 C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos de algoritmos\semana3\obj\Debug\semana3.exe
 C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos de algoritmos\semana3\obj\Debug\semana3.pdb
+C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\semana3\obj\Debug\semana3.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\semana3\obj\Debug\semana3.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\semana3\obj\Debug\semana3.exe
+C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\semana3\obj\Debug\semana3.pdb
+C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\semana3\bin\Debug\semana3.exe.config
+C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\semana3\bin\Debug\semana3.exe
+C:\Users\Fabrizio\Desktop\Fundamentos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\semana3\bin\Debug\semana3.pdb
