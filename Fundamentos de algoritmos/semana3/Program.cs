@@ -10,10 +10,10 @@ namespace semana3
     {
         static void Main(string[] args)
         {
-            ejercicio8();
+            Ejercicio8();
             Console.ReadKey();
         }
-        static void ejercicio01()
+        static void Ejercicio01()
         {
             string nombre;
 
@@ -22,16 +22,16 @@ namespace semana3
 
             Console.WriteLine(nombre + " Bienvenido al curso de Fundamento De Algoritmos");
         }
-        static void ejercicio2()
+        static void Ejercicio2()
         {
             Console.WriteLine("Fabrizzio 19 Ing De Sistemas");
         }
 
-        static void ejercicio3()
+        static void Ejercicio3()
         {
             Console.WriteLine("\"Fabrizzio\"");
         }
-        static void ejercicio4()
+        static void Ejercicio4()
         {
             int num1, num2;
 
@@ -49,7 +49,7 @@ namespace semana3
             Console.ReadKey();
         }
 
-        static void ejercicio5()
+        static void Ejercicio5()
         {
             int bs, alt, area;
             Console.WriteLine("Ingrese la base del triangulo: ");
@@ -63,7 +63,7 @@ namespace semana3
             Console.WriteLine($"\nEl area del triangulo es: " + area);
         }
 
-        static void ejercicio6()
+        static void Ejercicio6()
         {
             double num1, num2, num3, prom;
 
@@ -80,7 +80,7 @@ namespace semana3
 
             Console.WriteLine("\n El promedio es: " + Math.Round(prom, 2));
         }
-        static void ejercicio7()
+        static void Ejercicio7()
         {
             int radio;
             double area;
@@ -92,7 +92,7 @@ namespace semana3
 
             Console.WriteLine("\nEl area del circulo es: " + Math.Round(area, 2));
         }
-        static void ejercicio8()
+        static void Ejercicio8()
         {
             double num1;
 

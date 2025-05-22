@@ -10,11 +10,11 @@ namespace Semana_4
     {
         static void Main(string[] args)
         {
-            ejercicio3();
+            Ejercicio3();
             Console.ReadKey();
         }
 
-        static void ejercicio1()
+        static void Ejercicio1()
         {
             int num1;
 
@@ -30,7 +30,7 @@ namespace Semana_4
                 Console.WriteLine("\nEl numero es impar");
             }
         }
-        static void ejercicio2()
+        static void Ejercicio2()
         {
             int edad;
             Console.Write("Ingrese una edad : ");
@@ -49,7 +49,7 @@ namespace Semana_4
                 Console.WriteLine("\nEs mayor de edad");
             }
         }
-        static void ejercicio3()
+        static void Ejercicio3()
         {
 
         }

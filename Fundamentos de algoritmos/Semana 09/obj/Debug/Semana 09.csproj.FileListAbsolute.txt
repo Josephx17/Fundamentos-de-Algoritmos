@@ -1,0 +1,10 @@
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\bin\Debug\Semana 09.exe.config
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\bin\Debug\Semana 09.exe
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\bin\Debug\Semana 09.pdb
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\obj\Debug\Semana 09.csproj.AssemblyReference.cache
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\obj\Debug\Semana 09.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\obj\Debug\Semana 09.exe
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\obj\Debug\Semana 09.pdb
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\bin\Debug\Biblioteca.dll
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\bin\Debug\Biblioteca.pdb
+C:\Users\UPN\Source\Repos\Fundamentos-de-Algoritmos\Fundamentos de algoritmos\Semana 09\obj\Debug\Semana 09.csproj.Up2Date
